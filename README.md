@@ -1,5 +1,7 @@
 # Text-to-Story-Maker
 
+![image](https://github.com/user-attachments/assets/0340251c-0b80-4210-ac2d-dff8540caaf2)
+
 A Python-based project that generates creative stories from user-provided input sentences. Built using OpenAI's GPT-2 model, this tool allows users to customize various parameters like story length, creativity, and diversity to generate personalized stories.
 
 Description
