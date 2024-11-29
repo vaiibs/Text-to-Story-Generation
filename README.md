@@ -1,4 +1,4 @@
-# Text-to-Story-Maker
+# Text-to-Story-Generation
 
 ![image](https://github.com/user-attachments/assets/0340251c-0b80-4210-ac2d-dff8540caaf2)
 
